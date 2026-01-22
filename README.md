@@ -1,7 +1,7 @@
 # Guess A Number Game 🎮
-
-![Snake Animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+</p>
 This is a simple console game **"Guess A Number"**, created as part of the **Python Fundamentals** course at **SoftUni**.
 
 ## 📝 Description
