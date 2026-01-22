@@ -1,5 +1,9 @@
-# Guess A Number Game 🎮
 
+
+# Guess A Number Game 🎮
+## 🐍 Game Status
+![Snake](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Guess%20A%20Number&fontSize=70)
+![github contribution grid snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 A simple and interactive console-based game built with **Python**. This project was created as part of the **SoftUni** programming basics course.
 
 ## 📝 Description
