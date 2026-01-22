@@ -1,6 +1,6 @@
 # Guess A Number Game 🎮
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+  <img src="snake.png" alt="Guess The Number Snake" width="400">
 </p>
 This is a simple console game **"Guess A Number"**, created as part of the **Python Fundamentals** course at **SoftUni**.
 
