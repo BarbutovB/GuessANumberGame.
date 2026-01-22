@@ -1,21 +1,18 @@
-
-
 # Guess A Number Game 🎮
-## 🐍 Game Status
-![Snake](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Guess%20A%20Number&fontSize=70)
-![github contribution grid snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-A simple and interactive console-based game built with **Python**. This project was created as part of the **SoftUni** programming basics course.
+
+![Snake Animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+This is a simple console game **"Guess A Number"**, created as part of the **Python Fundamentals** course at **SoftUni**.
 
 ## 📝 Description
-"Guess A Number" is a game where the computer randomly selects a number between **1 and 100**. Your goal is to guess the number. After each attempt, the computer provides feedback:
-* **"Too High"** – if your guess is greater than the target number.
-* **"Too Low"** – if your guess is smaller than the target number.
-* **"You guessed it!"** – when you find the correct number.
+In this game, the computer chooses a random number between **1 and 100**, and your task is to guess it.
+* If your guess is too high, the computer says: **"Too High!"**
+* If your guess is too low, the computer says: **"Too Low!"**
+* When you guess it, you see: **"You guess it!"**
 
 ## 🚀 How to Run
-1. Make sure you have **Python 3** installed on your machine.
-2. Download the `main.py` file.
-3. Open your terminal or command prompt and navigate to the file's folder.
-4. Run the game using:
-   ```bash
-   python main.py
+1. Make sure you have **Python** installed.
+2. Run the command: `python main.py`
+
+## 👤 Author
+Created by **Bozhidar Barbutov**.
